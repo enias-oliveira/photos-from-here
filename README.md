@@ -2,6 +2,8 @@
 
 "Photos From Here" é uma aplicação web simples que exibe fotos que foram tiradas próximas da localização geográfica do usuário.
 
+[Clique aqui pra acessar o projeto em "produção"](https://enias-c137.gitlab.io/photos-from-here/)
+
 ## Visão Geral
 O app irá usar a API de geolocalização para determinar a localização do usuário (latitude e longitude), e em seguida irá usar a API do Flickr para obter uma lista de fotos que foram tiradas perto deste local.
 
